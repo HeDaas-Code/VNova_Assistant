@@ -35,7 +35,7 @@ PyQt-Fluent-Widgets>=1.7.0
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/您的用户名/VNova_Assistant.git
+git clone https://github.com/HeDass-Code/VNova_Assistant.git
 cd VNova_Assistant
 ```
 
