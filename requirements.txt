@@ -1,0 +1,4 @@
+ollama>=0.1.0
+PyQt5>=5.15.0
+snownlp>=0.12.3
+PyQt-Fluent-Widgets>=1.7.0
